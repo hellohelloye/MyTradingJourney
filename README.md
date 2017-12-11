@@ -32,3 +32,6 @@ Alert:
 - FENG -------  (BUY $6.78, ---    80 share)   ----> aim sale at $8
 
 -buy RIOT $22.23  --- 51 share
+
+
+($3792.15)
