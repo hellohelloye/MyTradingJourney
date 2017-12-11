@@ -21,3 +21,12 @@ Alert:
 - DS  -------   (BUY $6.38, ---    90 share)   ----> aim sale at $8
 - FENG -------  (BUY $6.78, ---    80 share)   ----> aim sale at $8
 - MVIS -------  (BUY $1.74,  ---   606 share)   ----> aim sale at $2.2
+
+#### Stocks 12/11/2017   ($3628.76)
+-sell MVIS,  buy RIOT ($19, --- 49 share)  
+
+- CBI  ------  (BUY $17.24,   --- 34 share)   ----> aim sale at $20
+- CPRX ------  (BUY $4.5,    ---  100 share)   ----->aim sale at $7
+- DB  -------   (BUY $19.28,  ---  30 share)   -----> aim sale at $ 22
+- DS  -------   (BUY $6.38, ---    90 share)   ----> aim sale at $8
+- FENG -------  (BUY $6.78, ---    80 share)   ----> aim sale at $8
