@@ -30,3 +30,5 @@ Alert:
 - DB  -------   (BUY $19.28,  ---  30 share)   -----> aim sale at $ 22
 - DS  -------   (BUY $6.38, ---    90 share)   ----> aim sale at $8
 - FENG -------  (BUY $6.78, ---    80 share)   ----> aim sale at $8
+
+-buy RIOT $22.23  --- 51 share
