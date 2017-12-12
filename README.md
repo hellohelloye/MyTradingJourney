@@ -40,3 +40,12 @@ Alert:
 - CBI  ------  (BUY $17.24,   --- 34 share)   ----> aim sale at $20
 - FENG -------  (BUY $6.78, ---    80 share)   ----> aim sale at $8
 - buy RIOT $22.23  --- 51 share
+
+- sell FENG,  buy CBI at $18.40 
+
+
+
+- CBI  share 62
+- RIOT  share 70
+- XNET share 65
+( $4100)
