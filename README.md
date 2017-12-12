@@ -49,3 +49,5 @@ Alert:
 - RIOT  share 70
 - XNET share 65
 ( $4100)
+
+#### Stocks  consider  MRVL $22, BP $40
