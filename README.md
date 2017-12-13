@@ -51,3 +51,9 @@ Alert:
 ( $4100)
 
 #### Stocks  consider  MRVL $22, BP $40
+
+- MRVL   BUY 32 SHARES AT 22.49
+- DPW BUY 100 SHARE AT 5.40
+- CBI 62 share
+- RIOT share 25
+- XNET share 65
