@@ -2,6 +2,8 @@
 I am training myself to become a professional trader. I aim to buy a house by using the money I earn from my trading profits. 
 -------  12/01/2017
 
+Sell at morning time between 9:30am ~  1pm, buy at afternoon time between 3pm ~ 4pm. If stock goes quite high in a day, try to sell at the end of closing day. 
+
 
 ##### My Portfolio Stocks  12/01/2017   ( $3832  from $5000 )
 - DS  (golf - entertainment)    buy 6.38    share 180 
@@ -58,7 +60,7 @@ Alert:
 - RIOT share 25
 - XNET share 65
 
-#### 12/14/2017  Stock under $3900
+####  Thursday, 12/14/2017,  Stock under $3900
 - RIOT buy at $25.03 ---  share 87
 - JBLU buy at 21.82  ---- share 28
 - MRVL buy at 22.64 --- share 32
