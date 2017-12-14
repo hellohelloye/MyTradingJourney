@@ -57,3 +57,10 @@ Alert:
 - CBI 62 share
 - RIOT share 25
 - XNET share 65
+
+#### 12/14/2017  Stock under $3900
+- RIOT buy at $25.03 ---  share 87
+- JBLU buy at 21.82  ---- share 28
+- MRVL buy at 22.64 --- share 32
+- TEVA buy at 18.06  --- share 27
+
