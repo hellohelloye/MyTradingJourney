@@ -2,8 +2,19 @@
 I am training myself to become a professional trader. I aim to buy a house by using the money I earn from my trading profits. 
 -------  12/01/2017
 
-Sell at morning time between 9:30am ~  1pm, buy at afternoon time between 3pm ~ 4pm. If stock goes quite high in a day, try to sell at the end of closing day. 
+Sell at morning time between 10, 11, 12pm, buy at afternoon time between 2,3pm ~ 4pm. If stock goes quite high in a day, try to sell at the end of closing day. 
 
+#### Stocks ( $4237 )  From now On buy a stock try to hold it for a week. use settlement cash to buy another stock, or when you use settlement cash to buy other stock try to wait that settlement before selling the new stock, otherwise it will violent certain rules. 
+
+- JBLU  SHARE 28,  $ 21.82
+- MRVL  SHARE 32,   $ 22.64
+- TEVA   SHARE 27,   $ 18.06
+
+considering buy JPM $106,10  and HA $ 40.10
+
+
+/////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
 
 ##### My Portfolio Stocks  12/01/2017   ( $3832  from $5000 )
 - DS  (golf - entertainment)    buy 6.38    share 180 
