@@ -1,3 +1,5 @@
+
+<video src="2017Patrick&Ye.mp4" width="320" height="200" controls preload><video>
 # MyTradingJourney
 I am training myself to become a professional trader. I aim to buy a house by using the money I earn from my trading profits. 
 -------  12/01/2017
