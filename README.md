@@ -1,10 +1,16 @@
 
-<video src="2017Patrick&Ye.mp4" width="320" height="200" controls preload><video>
+
 # MyTradingJourney
 I am training myself to become a professional trader. I aim to buy a house by using the money I earn from my trading profits. 
 -------  12/01/2017
 
 Sell at morning time between 10, 11, 12pm, buy at afternoon time between 2,3pm ~ 4pm. If stock goes quite high in a day, try to sell at the end of closing day. 
+
+<video>
+  <source src="https://github.com/hellohelloye/MyTradingJourney/blob/master/2017Patrick%26Ye.mp4" type="video/webm; codecs=vp9,vorbis">
+  <source src="2017Patrick&Ye.mp4" type="video/mp4">
+  <p>message</p>
+</video>
 
 #### Stocks ( $4237 )  From now On buy a stock try to hold it for a week. use settlement cash to buy another stock, or when you use settlement cash to buy other stock try to wait that settlement before selling the new stock, otherwise it will violent certain rules. 
 
